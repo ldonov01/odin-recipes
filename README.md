@@ -1,1 +1,2 @@
 # odin-recipes
+Basic recipe website. Website was built to practice html skills. Website consists of homepage that organizes relative links to webpages built for recipes. Recipe webpages were built using html text elements and images. 
